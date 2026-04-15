@@ -1,3 +1,12 @@
 .env
 venv
 .DS_Store
+lec1-intro-to-gen-ai
+lec3-llm-app-and-tooling
+lec4-rag-embeddings-1
+lec5-rag-embeddings-2
+lec6-langgraph-1
+lec7-langgraph-1
+lec8-langgraph-2
+lec9-mcp 
+rag-qa-bot 

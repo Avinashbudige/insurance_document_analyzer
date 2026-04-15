@@ -1,0 +1,81 @@
+AVINASH BUDIGE
+Hyderabad, Telangana | +91 9390291253 | avinashbudigework@gmail.com
+LinkedIn : linkedin.com/in/AvinashBudige| GitHub : github.com/AvinashBudige
+PROFESSIONAL SUMMARY
+AI Engineer with 3+ years experience in LLMs, NLP, and computer vision, building production ML and agents systems end-to-end. Proficient in Python, deep learning frameworks, and cloud deployment technologies (GCP,AWS). Proven track record of collaborating with cross-functional teams to deliver scalable, data-driven solutions that drive measurable business impact and operational efficiency gains of up to 20%.
+KEY SKILLS Programming Languages
+Python
+SQL
+Deep Learning & Frameworks
+PyTorch & TensorFlow
+CNN, DNN, RNN, RAG
+Model optimization
+TensorFlow Lite
+Concurrency & Performance
+Multi-threading
+Multiprocessing
+Queue management
+Load balancing
+CAREER SUMMARY
+Computer Vision & Processing
+OpenCV (RTSP, preprocessing, video analytics)
+YOLOv8, Faster R-CNN
+Face Recognition
+Object Tracking, EasyOCR
+Pattern Recognition
+Data Management & Analytics
+MongoDB, SQL databases
+Large-scale data (500K+ records)
+Predictive Analytics (85%)
+ETL pipelines (Numpy, Pandas)
+Deployment & Infrastructure
+Docker containerization
+Linux Microservices
+FastAPI, Django
+Edge deployment (NVIDIA, Raspberry Pi)
+CI/CD pipelines
+Video Streaming & Real-Time
+RTSP protocol processing
+Multi-stream (10+ concurrent)
+Real-time (<200ms latency)
+15+ FPS on edge devices
+WebSocket
+AI Engineer, Knowledge Flex Technologies Pvt. Ltd (April 2023 – Present) Python Engineer, Foundation AI (July 2021 – November 2022)
+EXPERIENCE
+Knowledge Flex Technologies Pvt. Ltd, Bangalore, Karnataka (Client: SIS) April 2023 – Present AI Engineer
+Model Development and Evaluation:
+Developed YOLOv8/Faster R-CNN object detection for SIS verification pipeline, achieving 95% accuracy.
+Built real-time object analysis/verification system processing 10K+ daily events with <200ms latency.
+Deployed OpenCV RTSP streams with multi-threading for SIS object tracking and pattern recognition.
+Delivered LLM/RAG solutions for SIS client, processing 100s of policy documents with <500ms latency via FastAPI.
+Deployed all microservices on Linux servers (Ubuntu 20.04) using Docker Compose for orchestration, configured systemd services for automatic startup, ran cron job for running repetitive jobs.
+Client Impact:
+Reduced SIS manual verification workload by 70% via automated detection pipelines.
+Handled 500K+ records for object analytics, deployed on NVIDIA Jetson edge devices.
+Foundation AI, Hyderabad, Telangana (Client: Hanover Insurance) July 2021 – Nov 2022 Python Engineer
+NLP Data Extraction for Hanover Insurance:
+Extracted model results and performed NLP analysis on insurance documents using spaCy/NLTK.
+Automated data extraction from unstructured policy/claims text, achieving 85% trend forecasting accuracy.
+Optimized Python workflows for insurance data processing, improving efficiency by 20%.
+Built and deployed predictive models using machine learning libraries, achieving 85% trend forecasting accuracy
+and driving better strategic decision-making.
+KEY PROJECTS
+Multi-Modal Detection System (Face Recognition & ANPR)
+Engineered edge-deployed face recognition (FaceNet, 90% accuracy) and ANPR system (YOLOv8 + EasyOCR,
+95% detection) achieving <200ms latency on NVIDIA Jetson
+Implemented OpenCV RTSP stream processing with multi-threading for parallel detection, processing 10,000+ daily events with TensorFlow Lite INT8 quantization
+Built FastAPI microservices with Docker containerization and CI/CD, reducing manual access control workload by 70%
+Tech: Python, OpenCV, YOLOv8, FaceNet, EasyOCR, PyTorch, TensorFlow Lite, RTSP, FastAPI, Docker, NVIDIA Jetson
+AI-Powered Video Management System
+Architected scalable VMS processing 10+ concurrent RTSP streams using OpenCV, YOLOv8, and TensorFlow Faster R-CNN, achieving 3× throughput with multi-threading/multiprocessing
+Processed 500,000+ detection events with >95% accuracy using MongoDB backend, implementing object tracking and anomaly detection with <200ms latency
+Developed Django dashboard with FastAPI backend, deployed on Raspberry Pi/Linux via Docker, reducing surveillance workload by 70%
+Tech: Python, OpenCV, YOLOv8, Faster R-CNN, PyTorch, TensorFlow, RTSP, Threading, Multiprocessing, Django, FastAPI, MongoDB, Docker, Raspberry Pi, Nvidia, PostgreSQL
+EDUCATION
+Deakin University 2023 – 2025 Master of Data Science (Global)
+Jawaharlal Nehru Technological University 2016 – 2020 Electrical and Electronic Engineering
+COURSES AND CERTIFICATIONS
+Python (Basic) HackerRank SQL (Intermediate) HackerRank Python DSA Coursera
+Embedded/IoT Certification Niltech-Edu Post Graduation in AI and ML Great Learning, Texas University, Austin Data Science Certification Analytics Path
+ADDITIONAL INFORMATION
+Tech Skills: Java, C Languages: English (fluent), Telugu (native), Hindi (fluent). Interests: Enjoy traveling, manage personal Tech Social Media Channel producing two posts per week on average.
