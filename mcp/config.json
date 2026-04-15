@@ -1,0 +1,58 @@
+{
+  "name": "document-analyzer-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Django Document Analyzer",
+  "tools": [
+    {
+      "name": "upload_document",
+      "description": "Upload and process a document",
+      "parameters": {
+        "file_path": "string",
+        "user_id": "string", 
+        "title": "string"
+      }
+    },
+    {
+      "name": "get_document_status",
+      "description": "Get processing status of a document",
+      "parameters": {
+        "document_id": "string"
+      }
+    },
+    {
+      "name": "get_analysis_results",
+      "description": "Get detailed analysis results",
+      "parameters": {
+        "document_id": "string"
+      }
+    },
+    {
+      "name": "list_user_documents",
+      "description": "List documents for a user",
+      "parameters": {
+        "user_id": "string",
+        "limit": "integer"
+      }
+    },
+    {
+      "name": "search_documents",
+      "description": "Search documents by content or metadata",
+      "parameters": {
+        "query": "string",
+        "user_id": "string"
+      }
+    }
+  ],
+  "resources": [
+    {
+      "name": "document",
+      "description": "Access document content and metadata",
+      "uri": "document://{document_id}"
+    },
+    {
+      "name": "user_documents",
+      "description": "Access all documents for a user",
+      "uri": "user_documents://{user_id}"
+    }
+  ]
+}
